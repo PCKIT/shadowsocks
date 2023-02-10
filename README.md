@@ -1,1 +1,1 @@
-# shadowsocks
+sbr-ac1200p
